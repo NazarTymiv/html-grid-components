@@ -38,7 +38,7 @@
 
 .two-column-grid__expand-two {
   display: grid;
-  grid-template-columns: 150px 1fr;
+  grid-template-columns: 100px 1fr;
   column-gap: 8px;
 }
 
